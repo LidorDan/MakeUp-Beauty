@@ -1,0 +1,26 @@
+{
+  "name": "makeup-beauty",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "concurrently \"cd server && npm start\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LidorDan/MakeUp-Beauty.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LidorDan/MakeUp-Beauty/issues"
+  },
+  "homepage": "https://github.com/LidorDan/MakeUp-Beauty#readme",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.12.4"
+  }
+}
